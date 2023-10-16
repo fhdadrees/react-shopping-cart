@@ -5,7 +5,7 @@ export const Products = [
         description: 'Color: Black',
         price: 500000,
         quantity: 1,
-        img: "../images/IPhone.jpg"
+        img: "images/IPhone.jpg"
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ export const Products = [
         description: 'Color: Black',
         price: 400000,
         quantity: 1,
-        img: "/./images/S21.jpg"
+        img: "images/S21.jpg"
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ export const Products = [
         description: 'Color: Black',
         price: 800000,
         quantity: 1,
-        img: "/./images/Vision.jpg"
+        img: "images/Vision.jpg"
     },
     {
         id: 4,
@@ -29,6 +29,6 @@ export const Products = [
         description: 'Color: Black',
         price: 300000,
         quantity: 1,
-        img: "/./images/Watch.jpg"
+        img: "images/Watch.jpg"
     }
 ]
